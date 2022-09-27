@@ -23,7 +23,9 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=richerts7&icon=3&color=7)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=richerts7&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 
 
 
