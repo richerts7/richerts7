@@ -1,5 +1,5 @@
 # 💫 richerts7: richerts7@yahoo.com
-# 💫 About Me: 
+# 💫 About Me: Coder
 🔭 I’m currently working on Full Stack DevOp<br>👯 I’m looking For Update <br>🌱 I’m currently learning<br>💬 Ask me about <br>⚡ Fun fact
 
 
