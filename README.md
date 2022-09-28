@@ -1,4 +1,4 @@
-# 💫 richerts7:
+# 💫 richerts7: richerts7@yahoo.com
 # 💫 About Me:
 🔭 I’m currently working on Full Stack DevOp<br>👯 I’m looking For Update <br>🌱 I’m currently learning<br>💬 Ask me about <br>⚡ Fun fact
 
